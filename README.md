@@ -1,2 +1,14 @@
-# ORIC-ROM
-4xROM for ORIC-1/Oric Atmos
+# ORIC-1/Atmos ROM x4
+
+## Description
+
+ORIC-1 and ORIC Atmos were relatively simple 8-bit machines designed by Tangerine Computers to compete with ZX Spectrum. Unfortunatelly, their success was rather limited. One of the ORIC-1's problems was buggy ROM. It has been partially improved in Atmos. So the first upgrade for ORIC-1 user is exchanging ROM. However this is not trival because of special masked ROM used that has two enable lines. One, standard CS on pin xx and another called ROMDIS on pin 27. The effect is that you can use standard 27128 EPROM only if you dont use external devices (like Erebus SD loader which is a must). Additional logic must be impemented to enable ROM only when ROMDIS line is inactive. Another problem is size of the case which requires low profile build. 
+
+## Features
+
+* Four vesions of ROMS with swicth
+* extremely low profile
+
+Have fun !
+
+Tommy
