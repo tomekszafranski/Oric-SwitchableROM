@@ -6,8 +6,8 @@ Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Co
 
 ## Features
 
-* Four vesions of ROMS with swicth
-* extremely low profile
+* Four vesions of ROMs with DIP switch
+* Extremly low profile PCB
 
 Have fun !
 
