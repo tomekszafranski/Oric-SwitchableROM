@@ -1,4 +1,4 @@
-# Oric-1/Atmos ROM x4
+# Oric-1/Atmos Switchable ROM
 
 ## Description
 
