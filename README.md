@@ -12,3 +12,7 @@ ORIC-1 and ORIC Atmos were relatively simple 8-bit machines designed by Tangerin
 Have fun !
 
 Tommy
+
+
+> [!NOTE]
+> **Disclaimer**: This is my project that I’ve built and it works for me. You can do it as well but remember, you’re responsible for your own doings 
