@@ -7,13 +7,16 @@ Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Co
 ## Features
 
 * Easily available W27C512 EEPROM used, no need for UV eraser
-* Four vesions of ROMs selected with DIP switch - Oric-4ROMs.BIN file consists of: [ORIC Diagnostic ROM ver.1.08k](https://oric.signal11.org.uk/html/diagrom.htm), Oric 1.0, Oric 1.1, Oric 1.22 ROMs
+* Four vesions of ROMs selected with DIP switch
 * Extremly low profile PCB
+
+## Remarks
+
+* Oric-4ROMs.BIN file consists of: [ORIC Diagnostic ROM ver.1.08k](https://oric.signal11.org.uk/html/diagrom.htm), Oric 1.0, Oric 1.1, Oric 1.22 ROMs
 
 Have fun !
 
 Tommy
-
 
 > [!NOTE]
 > **Disclaimer**: This is my project that I’ve built and it works for me. You can do it as well but remember, you’re responsible for your own doings 
