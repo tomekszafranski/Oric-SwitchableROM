@@ -6,7 +6,7 @@ Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Co
 
 ## Features
 
-* Easily available W27C512 EEPROM used
+* Easily available W27C512 EEPROM used, no need for UV eraser
 * Four vesions of ROMs selected with DIP switch
 * Extremly low profile PCB
 
