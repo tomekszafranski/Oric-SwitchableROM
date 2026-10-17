@@ -7,6 +7,13 @@ Oric-1 and Oric Atmos were 8-bit machines designed in early 80's by Tangerine Co
 
 This is however, not trival, because of special masked ROM used that has two enable lines. One, standard /CS on pin 20 and another called /ROMDIS on pin 27. The result is that you can use standard 27128 EPROM only if you don't use external devices (like Erebus SD loader which is a must) that utilize /ROMDIS line to disable internal ROM. Additional logic must be impemented to enable internal ROM when /CS line is active and /ROMDIS line is inactive. Another problem is size of the case which requires low profile build. 
 
+
+<img width="1920" height="1258" alt="36d4787d-b264-48c8-aa42-d9c8ace489f6" src="https://github.com/user-attachments/assets/44fa477b-4d31-4ebd-9f19-677ff8d1569e" />
+
+<img width="1920" height="2559" alt="49600185-325b-446f-915e-7bed4c95ff65" src="https://github.com/user-attachments/assets/14f202d0-20f9-4ddd-a652-e0dd0306c946" />
+
+
+
 ## Features
 
 * Easily available W27C512 EEPROM used, no need for UV eraser
