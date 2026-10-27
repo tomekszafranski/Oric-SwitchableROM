@@ -8,7 +8,7 @@ This is however, not trival, because of special masked ROM used that has two ena
 
 | top              | bottom             |
 | ---------------------- | ---------------------- |
-|<img width="586" height="1073" alt="Zrzut ekranu 2026-10-27 153028" src="https://github.com/user-attachments/assets/15da1de0-5f77-4301-979a-3f592adaf79c" /> | <img width="600" height="1100" alt="Zrzut ekranu 2026-10-27 153007" src="https://github.com/user-attachments/assets/39df6986-a068-42ef-bef9-6063063b8a59" /> |
+|<img width="600" height="1100" alt="Zrzut ekranu 2026-10-27 153028" src="https://github.com/user-attachments/assets/15da1de0-5f77-4301-979a-3f592adaf79c" /> | <img width="600" height="1100" alt="Zrzut ekranu 2026-10-27 153007" src="https://github.com/user-attachments/assets/39df6986-a068-42ef-bef9-6063063b8a59" /> |
 
 <img width="1920" height="1258" alt="36d4787d-b264-48c8-aa42-d9c8ace489f6" src="https://github.com/user-attachments/assets/44fa477b-4d31-4ebd-9f19-677ff8d1569e" />
 <img width="1920" height="2559" alt="49600185-325b-446f-915e-7bed4c95ff65" src="https://github.com/user-attachments/assets/14f202d0-20f9-4ddd-a652-e0dd0306c946" />
