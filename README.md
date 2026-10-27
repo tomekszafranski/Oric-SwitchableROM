@@ -15,9 +15,9 @@ This is however, not trival, because of special masked ROM used that has two ena
 ## Features
 
 * Easily available W27C512 EEPROM used, no need for UV eraser
-* Four vesions of ROMs selectable with DIP switch
+* Four vesions of ROMs, selectable with DIP switch
 * Low profile PCB - use low profile pin headers
-* Easy reprogramming - if you want to reprogram EEPROM that is soldered - change jumpers to "programming", use EEPROM programmer and change settings to "operation"
+* Easy reprogramming - if you want to reprogram EEPROM that is already soldered - change jumpers to "programming" and use programmer 
 
 ## Remarks
 
